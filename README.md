@@ -1,3 +1,4 @@
+<h1 align="center">Shazam through Flutter</h1>
 Made a clone of Shazam app with help of Flutter and Dart as a part of MAD & PWA Lab curriculum.
 
 # App Screens
